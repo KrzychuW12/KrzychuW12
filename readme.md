@@ -1,6 +1,6 @@
 # Welcome 👋 
 
-## Currently im just lerning or coding small projects for myself
+## Currently im just learning or coding small projects for myself
 
 - 🖥️ Interested in computer networks, servers etc.
 - 🧑‍💻 Learning javascript
