@@ -3,7 +3,7 @@
 ## Currently im just learning or coding small projects for myself
 
 - 🖥️ Interested in computer networks, servers etc.
-- 🧑‍💻 Learning javascript
+- 💻 Learning javascript
 - 📚 Want to learn React and Tailwind
 - 😎 One day i will make something big
 
